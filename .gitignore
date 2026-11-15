@@ -1,0 +1,12 @@
+# Secret Keys
+credentials.json
+token.json
+
+# Generated Files
+downloaded_reports/
+Final_Grades.xlsx
+Classroom_Grades.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
